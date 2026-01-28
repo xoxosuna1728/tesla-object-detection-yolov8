@@ -1,7 +1,7 @@
+dataset/
 venv/
 runs/
 __pycache__/
 *.pt
-*.zip
-dataset/images/train/*
-dataset/labels/train/*
+*.png
+*.jpg
